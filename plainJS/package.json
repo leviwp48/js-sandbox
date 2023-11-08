@@ -1,0 +1,23 @@
+{
+  "name": "js-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leviwp48/js-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leviwp48/js-sandbox/issues"
+  },
+  "homepage": "https://github.com/leviwp48/js-sandbox#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
