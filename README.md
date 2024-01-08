@@ -34,31 +34,6 @@ List your projects here with brief descriptions. Include links to individual pro
    - Description: Collection of miscellaneous mini projects.
    - Link: [Project 4](./mini_projects/)
 
-## Getting Started
-
-Provide instructions on how to set up and run projects locally. Include any dependencies or prerequisites.
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/js-playground.git
-
-# Change into the project directory
-cd js-playground
-```
-
-# Run Project 1
-
-To run projects:
-1. cd into a project directory
-2. run `python file-name.py`
-
-Example: 
-1. `cd mini_projects/calculator`
-2. `python calculator.py`
-
-
 # Contributing
 
 Feel free to contribute by adding new projects, improving existing ones, or fixing issues. Follow these steps to contribute:
